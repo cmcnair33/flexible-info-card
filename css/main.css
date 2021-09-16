@@ -20,6 +20,7 @@ section {
 h2 {
   text-align: center;
   font-weight: bold;
+  padding-bottom: 2rem;
 }
 
 li {
@@ -27,8 +28,27 @@ li {
   justify-content: space-between;
   align-items: center;
   flex-direction: row;
+  margin: 1.5rem;
 }
 
 img {
   width: 5rem;
+}
+
+p {
+  width: 24rem;
+}
+
+h3 {
+  margin: 0;
+  width: 16rem;
+}
+
+h4 {
+  margin: 0;
+  width: 16rem;
+}
+
+hgroup {
+  margin: 0;
 }
