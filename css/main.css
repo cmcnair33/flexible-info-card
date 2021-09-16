@@ -21,6 +21,7 @@ h2 {
   text-align: center;
   font-weight: bold;
   padding-bottom: 2rem;
+  color: #000;
 }
 
 li {
@@ -42,13 +43,18 @@ p {
 h3 {
   margin: 0;
   width: 16rem;
+  color: #000;
 }
 
 h4 {
   margin: 0;
   width: 16rem;
+  color: #000;
 }
 
-hgroup {
-  margin: 0;
+a {
+  color: #ccc;
+  background-color: #444;
+  padding: .5rem 1rem;
+  text-decoration: none;
 }
